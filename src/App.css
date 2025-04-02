@@ -74,6 +74,10 @@ button div {
 }
 
 @media (max-width: 768px) {
+  .box-containers {
+    padding-top: 2em;
+  }
+
   button {
     width: 80%; /* 버튼 크기를 적절히 조정 */
     margin: 5px 0; /* 버튼 간의 간격을 좀 더 넓게 설정 */
@@ -82,7 +86,9 @@ button div {
   button img {
     width: 80px; /* 이미지 크기를 모바일에 맞게 조정 */
   }
+
   .button-title {
+    padding-top: 1.3em;
     font-size: 2em;
   }
 }
