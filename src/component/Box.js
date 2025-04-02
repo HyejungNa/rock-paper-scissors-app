@@ -2,7 +2,7 @@ import React from "react";
 
 const Box = (props) => {
   return (
-    <div className="box">
+    <div className={`box ${props.result.toLowerCase()}`}>
       <h1>{props.title}</h1>
       <img
         className="item-img"
