@@ -80,12 +80,12 @@ button div {
   }
 
   button {
-    width: 80%; /* 버튼 크기를 적절히 조정 */
-    margin: 5px 0; /* 버튼 간의 간격을 좀 더 넓게 설정 */
+    width: 80%;
+    margin: 5px 0;
   }
 
   button img {
-    width: 80px; /* 이미지 크기를 모바일에 맞게 조정 */
+    width: 80px;
   }
 
   .button-title {
