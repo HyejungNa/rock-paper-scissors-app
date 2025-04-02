@@ -17,7 +17,7 @@ h1 {
 .box {
   border: 10px solid black;
   border-radius: 25px;
-  width: 35%;
+  width: 38%;
   text-align: center;
 }
 
@@ -60,11 +60,11 @@ button:hover {
 .button-title {
   padding-top: 15px;
   color: rgb(121, 88, 38);
-  font-size: 2em;
+  font-size: 2.5em;
 }
 
 button img {
-  width: 135px;
+  width: 130px;
   height: auto;
 }
 
