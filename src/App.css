@@ -29,6 +29,7 @@ h1 {
 .lose {
   border: 10px solid red;
   color: red;
+  opacity: 0.3;
 }
 
 .tie {
